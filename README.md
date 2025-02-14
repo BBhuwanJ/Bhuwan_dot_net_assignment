@@ -3,6 +3,14 @@
 
 ### This is .Net project of Online Voting System as a part of assignment.
 
+### What this Online system can perform?
+1 - Voter and Candidate can register throgh Voter and Candidate Registration Page respectively  <br/>
+2 - Admin Can authorize those user based on their roles <br/>
+3 - Admin can create and post the Election that is going to happen <br/>
+4 - Candidate can get their name in Election List<br/>
+5 - Voter can vote to their Candidates<br/>
+6 - Amin Can see the Result<br/>
+
 ### Actions I have performed:
 1 - Add Identity matrics thorught Scaffolded item <br/>
 2 - Add properties inside OnlineVotingSystemUser.cs like name, address, isVoter etc<br/>
