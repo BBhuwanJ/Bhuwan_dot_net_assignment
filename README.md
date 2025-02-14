@@ -27,10 +27,7 @@
 
 ![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/b82bc6c1c61effa20c43f0cba63734de15166382/Assest/Screenshot%202025-02-14%20145020.png)
 
-# Program Screenshots
-
-## Home Page
-![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/aefda63dd2f582ee9ab6748e4f91b5a19e23396b/Assest/Screenshot%202025-02-14%20141642.png)
+# Sample Screenshots
 
 ## Candidate Register
 ![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/2ef5f2a74a4895e4ae744db2b178ba564e79b1d6/Assest/CandidateRegister.png)
