@@ -32,6 +32,16 @@
 ## Home Page
 ![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/aefda63dd2f582ee9ab6748e4f91b5a19e23396b/Assest/Screenshot%202025-02-14%20141642.png)
 
+## Candidate Register
+![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/3effb4fd6b1cfe361a71880d543446db95cb130f/Assest/CandidateRegister.png)
+
+## Voter Register
+![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/3effb4fd6b1cfe361a71880d543446db95cb130f/Assest/VoterRegister.png)
+
+## Voter Register
+![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/3effb4fd6b1cfe361a71880d543446db95cb130f/Assest/LoginPage.png)
+
+
 
 Submitted By:<br/>
 Bhuwan Prasad Joshi <br/>
