@@ -14,8 +14,8 @@
 ![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/aefda63dd2f582ee9ab6748e4f91b5a19e23396b/Assest/Screenshot%202025-02-14%20141642.png)
 
 
-Submitted By:
-Bhuwan Prasad Joshi
-21075406
-Everest Engineering College
+Submitted By:<br/>
+Bhuwan Prasad Joshi <br/>
+21075406<br/>
+Everest Engineering College<br/>
 
