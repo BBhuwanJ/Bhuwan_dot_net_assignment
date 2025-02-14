@@ -1,7 +1,7 @@
 
 # Online Voting System with ASP.NET Core & MySql Server 
 
-This is .Net project of Online Voting System as a part of assignment.
+## This is .Net project of Online Voting System as a part of assignment.
 
 
 ## User Identity Attribute Table (with Primary key)
