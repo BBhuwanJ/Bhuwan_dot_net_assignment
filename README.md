@@ -35,6 +35,8 @@
 
 ![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/b82bc6c1c61effa20c43f0cba63734de15166382/Assest/Screenshot%202025-02-14%20145020.png)
 
+![image alt](https://github.com/BBhuwanJ/Bhuwan_dot_net_assignment/blob/958769e75d8d290f072b001c0d296fe46e3d345e/Assest/Screenshot%202025-02-14%20223942.png)
+
 # Sample Screenshots
 
 ## Candidate Register
