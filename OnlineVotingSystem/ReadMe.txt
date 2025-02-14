@@ -11,4 +11,8 @@
 	can't just add profile picture,we upload that picture in wwwroot>Images and give the string Imagepath to the user.ProfileImage.
 	Remember: System ma jaane chai string nai ho, but upload garda kheri matra IFormFile format use garne ho since it is file.
 	entype ma pani multipart/formdata user garni
-11 - 
+11 - AddToRoleAsync, Add to role in Register.cshtml.cs
+12 - Add Admin Controller into Controllers folder  and allow if only Admin, to list all the non Admin lists
+13 - Create a ViewModel folder inside the project and add class to it name "ConvertApplicationUser"
+14 - Add Razor page to the ViewVoters in Admin.cs
+

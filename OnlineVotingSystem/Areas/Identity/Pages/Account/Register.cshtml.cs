@@ -32,6 +32,7 @@ namespace OnlineVotingSystem.Areas.Identity.Pages.Account
         private readonly IEmailSender _emailSender;
         private IWebHostEnvironment WebHostEnvironment;
 
+
         public RegisterModel(
             UserManager<OnlineVotingSystemUser> userManager,
             IUserStore<OnlineVotingSystemUser> userStore,
@@ -130,6 +131,7 @@ namespace OnlineVotingSystem.Areas.Identity.Pages.Account
 
                 if (result.Succeeded)
                 {
+                    //await _userManager.AddToRoleAsync(user, "Voter");
                     _logger.LogInformation("User created a new account with password.");
 
                     var userId = await _userManager.GetUserIdAsync(user);
